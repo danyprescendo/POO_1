@@ -8,9 +8,9 @@ public class PrincipalImc2 {
 	
 	public static void main(String[] args) {
 		ArrayList<Pessoa> pessoas = new ArrayList<Pessoa>();
-		String menu = "1 - Cadastrar\n"+
-					  "2 - Listar\n"+
-					  "3 - Sair";
+		String menu = "1 - Cadastrar!\n"+
+					  "2 - Listar!\n"+
+					  "3 - Sair!";
 		
 		int op = 0;
 		
