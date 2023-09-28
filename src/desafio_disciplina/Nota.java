@@ -7,8 +7,6 @@ public class Nota {
 	private double n2;
 	private double n3;
 	
-	
-	
 	public Disciplina getDisc() {
 		return disc;
 	}
